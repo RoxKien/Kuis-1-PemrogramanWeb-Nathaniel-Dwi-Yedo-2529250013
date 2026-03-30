@@ -1,11 +1,11 @@
 .bannerMGP{
-    height: 10vh;
+    height: 15vh;
     border-radius: 30px 30px 30px 30px ;
     background-color: black
     
 }
 
 .container img{
-    height: 20% auto;
-    
+    height: 50px auto;
+    width: 100px auto;
 }
