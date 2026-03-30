@@ -6,6 +6,11 @@
 }
 
 .container img{
-    height: 50px auto;
-    width: 100px auto;
+    height: 40%;
+    width: 20%;
+    padding:25px 20px;
+}
+
+.identitas{
+    padding-left: 50 px  ;
 }
