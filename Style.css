@@ -11,17 +11,16 @@
     padding:25px 20px;
 }
 
-.identitas{
-
-}
-
 .gambarpemotor{
     height: 40vh;
 }
 
 .gambarpemotor li{
-    display: block;
-    float :left;
+    display: inline-block;
     width: 20%;
     padding: 10px;
+}
+
+.gambarpemotor img{
+    width: 100%;
 }
